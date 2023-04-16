@@ -1,0 +1,14 @@
+Django
+django-cors-headers
+django-ipware
+django-redis
+python-dotenv
+pytz
+redis
+rfc3986
+sniffio
+sqlparse
+urllib3
+uvicorn
+uvloop
+pytest
